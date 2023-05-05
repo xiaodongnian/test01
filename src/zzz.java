@@ -18,11 +18,11 @@ public class zzz {
 
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                if (nums[i] + nums[j] == target) {
+                if (nums[i] + nums[j] ==  target) {
 
                     k[0] = i;
                     k[1] = j;
-                    return k;
+                    return  k;
                 }
 
 
