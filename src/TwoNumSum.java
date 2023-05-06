@@ -1,8 +1,6 @@
-import java.lang.reflect.Array;
-import java.sql.SQLOutput;
 import java.util.Arrays;
 
-public class zzz {
+public class TwoNumSum {
     public static void main(String[] args) {
         int[] nums = new int[]{2, 3, 7, 9};
         int target = 9;
