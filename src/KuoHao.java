@@ -3,7 +3,7 @@ import java.util.Stack;
 public class KuoHao {
     public static void main(String[] args) {
         KuoHao j=new KuoHao();
-        String s="([]])";
+        String s="([{}])";
         System.out.println(j.isValid(s));
     }public boolean isValid(String s) {
         Stack<Character>hh=new Stack<>();
