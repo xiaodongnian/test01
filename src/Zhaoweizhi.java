@@ -12,6 +12,6 @@ public class Zhaoweizhi {
             if(nums[i]>=q){
                 return i;
             }i++;
-        }return i+1;
+        }return i;
     }
 }
