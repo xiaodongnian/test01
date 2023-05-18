@@ -13,6 +13,9 @@ public class Shanchu {
 
 
 }public  static ListNode deleteDuplicates(ListNode head) {
+        if(head==null){
+            return null;
+        }
         ListNode o=head;
         while(o.next!=null){
             if(o.next.val==o.val){
