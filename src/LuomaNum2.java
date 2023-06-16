@@ -7,13 +7,13 @@ public class LuomaNum2 {
        LuomaNum k=new LuomaNum();
         System.out.println(k.romanToInt("MDCLXVI"));
 
-    }
+     }
 
 
 
     public int romanToInt(String s){
-        Map<Character,Integer>hhh=new HashMap<Character,Integer>(){{
-            put('I',1);
+        Map<Character,Integer>hhh=new  HashMap<Character,Integer>(){{
+             put('I',1);
             put('V',5);
             put('X',10);
             put('L',50);

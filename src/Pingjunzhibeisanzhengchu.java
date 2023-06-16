@@ -1,6 +1,6 @@
 public class Pingjunzhibeisanzhengchu {
     public static void main(String[] args) {
-        int[] nums=new int[]{1,2,3,4,6,9,12};
+        int[] nums=new int[]{1,2,3,4,6,9};
         System.out.println(averageValue(nums));
     }  public static int averageValue(int[] nums) {
         int k=0,sum=0;
