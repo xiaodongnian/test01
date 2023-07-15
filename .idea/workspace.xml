@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dfc421f-c3a2-4654-94a7-f3c395ccc5ab" name="Changes" comment="旋转图片00" />
+    <list default="true" id="7dfc421f-c3a2-4654-94a7-f3c395ccc5ab" name="Changes" comment="旋转图片0">
+      <change afterPath="$PROJECT_DIR$/src/Text01/sanshuzhihe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lmshuzi">
+  <component name="RunManager" selected="Application.sanshuzhihe">
     <configuration name="FourProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FourProblem" />
       <module name="demo01" />
@@ -68,13 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threeproblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threeproblem" />
-      <module name="demo01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XuanZhuanTuPian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="XuanZhuanTuPian" />
       <module name="demo01" />
@@ -82,13 +78,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sanshuzhihe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text01.sanshuzhihe" />
+      <module name="demo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sanshuzhihe" />
         <item itemvalue="Application.Lmshuzi" />
         <item itemvalue="Application.XuanZhuanTuPian" />
         <item itemvalue="Application.Pingjunzhibeisanzhengchu" />
         <item itemvalue="Application.FourProblem" />
-        <item itemvalue="Application.Threeproblem" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +159,10 @@
       <workItem from="1685839304928" duration="20000" />
       <workItem from="1686876277022" duration="106000" />
       <workItem from="1686889496041" duration="464000" />
+      <workItem from="1688697264223" duration="312000" />
+      <workItem from="1688701506964" duration="624000" />
+      <workItem from="1689298741445" duration="4214000" />
+      <workItem from="1689384697381" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1683107374292</created>
@@ -410,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686876297570</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="旋转图片0">
+      <created>1688697505589</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1688697505589</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改文件名" />
     <MESSAGE value="修改类名" />
     <MESSAGE value="罗马数字转换" />
     <MESSAGE value="罗马数字转换 利用创建哈希表" />
@@ -464,7 +483,8 @@
     <MESSAGE value="力扣第四题" />
     <MESSAGE value="力扣第2455题" />
     <MESSAGE value="旋转图片00" />
-    <option name="LAST_COMMIT_MESSAGE" value="旋转图片00" />
+    <MESSAGE value="旋转图片0" />
+    <option name="LAST_COMMIT_MESSAGE" value="旋转图片0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
